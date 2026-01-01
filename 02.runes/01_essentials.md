@@ -275,9 +275,13 @@ If you understand this table, you understand **80% of Svelte 5 reactivity**.
 ## What We Learned in This Article
 
 ✅ What Svelte 5 Runes are
+
 ✅ How `$state` creates reactive variables
+
 ✅ How `$derived` keeps values in sync
+
 ✅ How `$effect` reacts to changes
+
 ✅ How UI updates automatically
 
 All using **only numbers and functions**.
